@@ -1,3 +1,5 @@
+> Originally developed at [codeberg.org/p2502/lspmux](https://codeberg.org/p2502/lspmux) · EUPL-1.2
+
 # lspmux &emsp; [![Latest Version]][crates.io]
 
 [Latest Version]: https://img.shields.io/crates/v/lspmux.svg
